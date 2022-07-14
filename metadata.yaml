@@ -1,0 +1,34 @@
+_repo: Address-of-President-Roosevelt-at-the-laying-of-the-corner-stone-of-the-office-building-of-th__68449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - Roosevelt, Teddy
+    - United States President (1901-1909)
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: https://en.wikipedia.org/wiki/Theodore_Roosevelt
+description: ''
+gutenberg_issued: '2022-07-03'
+identifiers:
+  gutenberg: '68449'
+language: en
+pgterms:marc904: https://archive.org/details/addressatlayingo00roos
+pgterms:marc905: 20220614110614roosevelt
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Government Printing Office,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Address of President Roosevelt at the laying of the corner stone of the office
+  building of the House of Representatives, Saturday, April 14, 1906
+url: http://www.gutenberg.org/ebooks/68449
