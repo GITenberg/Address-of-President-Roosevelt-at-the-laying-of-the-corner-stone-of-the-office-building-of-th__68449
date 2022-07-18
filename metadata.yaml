@@ -1,5 +1,8 @@
 _repo: Address-of-President-Roosevelt-at-the-laying-of-the-corner-stone-of-the-office-building-of-th__68449
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68449-h/images/cover.jpg
 creator:
   author:
     agent_name: Roosevelt, Theodore
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/729
     wikipedia: https://en.wikipedia.org/wiki/Theodore_Roosevelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68449#Address-of-President-Roosevelt-at-the-laying-of-the-corner-stone-of-the-office-building-of-th_
 gutenberg_issued: '2022-07-03'
 identifiers:
   gutenberg: '68449'
